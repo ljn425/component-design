@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>Menu</h1>
     <router-link to="/common">Common</router-link> |
     <router-link to="/slot">Slot</router-link> |
     <router-link to="/Controll">Controll</router-link> |
